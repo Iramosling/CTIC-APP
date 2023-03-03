@@ -44,6 +44,7 @@
 }
 
 .card{
+    margin: 20px 0px 20px 40px;
     border-radius: 0.5em;
 }
 
@@ -104,4 +105,7 @@
 }
 .text-left{
     float: right;
+}
+.btn-add{
+    margin-left: 30px;
 }
